@@ -1,5 +1,5 @@
 # EpicNotification
-Bubble Notifications with Animations for C# Library for Windows Forms Apps
+A C# Library of Bubble Notifications with Animations for Windows Forms Apps
 
 # USAGE
 Notification.Show(enTitle, enContent, enTitleColor, enMilliseconds);

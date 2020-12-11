@@ -4,9 +4,9 @@ A C# Library of Bubble Notifications with Animations for Windows Forms Apps
 # USAGE
 Notification.Show(enTitle, enContent, enTitleColor, enMilliseconds);
 
-enTitle - The Title of the Bubble Notification (type: string)
+enTitle - The Title of the Bubble Notification (type: string) (Max Length: 15)
 
-enContent - The Content of the Bubble Notification (type: string)
+enContent - The Content of the Bubble Notification (type: string)(Max Length: 25)
 
 enTitleColor - The Title Color of the Bubble Notification (type: Color)
 

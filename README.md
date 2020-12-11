@@ -16,7 +16,7 @@ enMilliseconds - The Display Time for the Bubble Notification in Milliseconds (t
 # EXAMPLE
 Notification.Show("Nice Title","This is a cool description.",Color.Red,3000);
 
-![image](https://epify.net/images/EpicNotification-Example.PNG)
+![Image Example](https://epify.net/images/EpicNotification-Example.PNG)
 
 
 

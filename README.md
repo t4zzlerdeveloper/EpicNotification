@@ -2,9 +2,9 @@
 A C# Library of Bubble Notifications with Animations for Windows Forms Apps
 
 # USAGE
-Notification.Show(enTitle, enContent, enTitleColor, enMilliseconds);
+### Notification.Show(enTitle, enContent, enTitleColor, enMilliseconds);
 
-enTitle - The Title of the Bubble Notification (type: string) (Max Length: 15)
+enTitle- The Title of the Bubble Notification (type: string) (Max Length: 15)
 
 enContent - The Content of the Bubble Notification (type: string)(Max Length: 25)
 
@@ -14,7 +14,7 @@ enMilliseconds - The Display Time for the Bubble Notification in Milliseconds (t
 
 
 # EXAMPLE
-Notification.Show("Nice Title","This is a cool description.",Color.Red,3000);
+### Notification.Show("Nice Title","This is a cool description.",Color.Red,3000);
 
 ![Image Example](https://epify.net/images/EpicNotification-Example.PNG)
 
